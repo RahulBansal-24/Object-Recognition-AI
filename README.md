@@ -30,6 +30,7 @@ Object_Recognition_AI/
 └── LICENSE                           # GNU License
 
 
+
 ---
 
 ## ⚙️ Installation & Usage
@@ -98,6 +99,7 @@ You are free to use, modify, and distribute this project under the same open-sou
 
 ⭐ **If you found this project helpful, consider giving it a star!**  
 Your support motivates me to create and share more open-source AI projects 🚀
+
 
 
 
