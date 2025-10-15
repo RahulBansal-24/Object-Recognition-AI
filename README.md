@@ -74,7 +74,7 @@ You can find an example detection result video here:
 
 🎥 **Click the image below to watch the demo video!**
 
-[![Watch Result Video](https://raw.githubusercontent.com/RahulBansal-24/Object_Recognition_AI/main/preview.png)](https://drive.google.com/file/d/1NJKEbDCaT6twxUVRV3IiEYaYnMSg0N6r/view)
+[![Watch Result Video](https://github.com/RahulBansal-24/Object-Recognition-AI/raw/main/preview.png)](https://drive.google.com/file/d/1NJKEbDCaT6twxUVRV3IiEYaYnMSg0N6r/view)
 
 
 
@@ -100,6 +100,7 @@ You are free to use, modify, and distribute this project under the same open-sou
 
 ⭐ **If you found this project helpful, consider giving it a star!**  
 Your support motivates me to create and share more open-source AI projects 🚀
+
 
 
 
