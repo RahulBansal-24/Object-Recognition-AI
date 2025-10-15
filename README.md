@@ -18,16 +18,17 @@ Includes a clean and interactive **Streamlit UI** for easy use.
 ## 🗂️ Project Structure
 Object_Recognition_AI/
 │
-├── Object_Recognition_AI.ipynb # Notebook (training + testing)
-├── streamlit_app.py # Streamlit UI app
-├── coco128.zip # Dataset used for model training/testing
-├── background.png # Streamlit UI background
+├── Object_Recognition_AI.ipynb       # Jupyter notebook (training + testing)
+├── streamlit_app.py                  # Streamlit UI app
+├── coco128.zip                       # Dataset used for model training/testing
+├── background.png                    # Streamlit UI background
 ├── sample_videos/
-│ └── result.mp4 # Output sample video
-├── yolov8n.pt # Model weights
-├── requirements.txt # Dependencies
-├── README.md # Documentation
-└── LICENSE # GNU License
+│   └── result.mp4                    # Output sample video
+├── yolov8n.pt                        # Model weights
+├── requirements.txt                  # Dependencies
+├── README.md                         # Documentation
+└── LICENSE                           # GNU License
+
 
 ---
 
@@ -97,6 +98,7 @@ You are free to use, modify, and distribute this project under the same open-sou
 
 ⭐ **If you found this project helpful, consider giving it a star!**  
 Your support motivates me to create and share more open-source AI projects 🚀
+
 
 
 
