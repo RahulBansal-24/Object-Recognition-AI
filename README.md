@@ -16,20 +16,18 @@ Includes a clean and interactive **Streamlit UI** for easy use.
 ---
 
 ## 🗂️ Project Structure
-Object_Recognition_AI/
-│
-├── Object_Recognition_AI.ipynb       # Jupyter notebook (training + testing)
-├── streamlit_app.py                  # Streamlit UI app
-├── coco128.zip                       # Dataset used for model training/testing
-├── background.png                    # Streamlit UI background
-├── sample_videos/
-│   └── result.mp4                    # Output sample video
-├── yolov8n.pt                        # Model weights
-├── requirements.txt                  # Dependencies
-├── README.md                         # Documentation
-└── LICENSE                           # GNU License
 
-
+| File Name | Description |
+|------------|-------------|
+| `Object_Recognition_AI.ipynb` | Jupyter notebook (training + testing) |
+| `streamlit_app.py` | Streamlit UI app |
+| `coco128.zip` | Dataset used for model training/testing |
+| `background.png` | Streamlit UI background |
+| `yolov8n.pt` | Model weights |
+| `requirements.txt` | Dependencies |
+| `README.md` | Documentation |
+| `LICENSE` | GNU License |
+| `preview.png` | Sample video preview image |
 
 ---
 
@@ -55,7 +53,7 @@ streamlit run streamlit_app.py
 
 ```
 
-## 🧠 Step 4 — Explore the Notebook (Optional)
+## 4️⃣ — Explore the Notebook (Optional)
 
 You can also open `Object_Recognition_AI.ipynb` in **Google Colab** or **Jupyter Notebook** to explore:
 
@@ -73,10 +71,13 @@ It provides excellent performance with minimal computational requirements, ideal
 
 You can find an example detection result video here:
 
-sample_videos/result.mp4
+
+🎥 **Click the image below to watch the demo video!**
+
+[![Watch Result Video](https://raw.githubusercontent.com/RahulBansal-24/Object_Recognition_AI/main/preview.png)](https://drive.google.com/file/d/1NJKEbDCaT6twxUVRV3IiEYaYnMSg0N6r/view)
 
 
-You can view it directly in your repository once uploaded or play it locally after downloading the project.
+
 
 ---
 
@@ -99,8 +100,6 @@ You are free to use, modify, and distribute this project under the same open-sou
 
 ⭐ **If you found this project helpful, consider giving it a star!**  
 Your support motivates me to create and share more open-source AI projects 🚀
-
-
 
 
 
